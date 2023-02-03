@@ -118,5 +118,15 @@
       "linkDemo": "https://pmdev.tabpedia.com",
       "linkGithub": ""
     }
+  ],
+  "vue": [
+    {
+      "id": 1,
+      "gambar": "projectPicts/15.png",
+      "title": "VueJS CRUD",
+      "desc": "The project that i made to fill my spare time, this project using VueJS and dummy JSON. I'm working on Front End and Back End.",
+      "linkDemo": "https://crud-vue-js.vercel.app/",
+      "linkGithub": "https://github.com/msadhimb/CRUD-VueJS"
+    }
   ]
 }

@@ -97,10 +97,10 @@
     {
       "id": 2,
       "gambar": "projectPicts/11.png",
-      "title": "CRUD with MySQL Database",
+      "title": "CRUD with Database",
       "desc": "The project that i made to fill my spare time, this project using ReactJS and MySQL. I'm working on Front End and Back End.",
       "linkDemo": "",
-      "linkGithub": "https://github.com/msadhimb/CRUD-MySQL-ReactJS"
+      "linkGithub": "https://github.com/msadhimb/CRUD-Database-ReactJS"
     },
     {
       "id": 3,
@@ -117,32 +117,6 @@
       "desc": "This is the displacement project while i'm doing internship at PT. Graphie Global Interaktif. I'm working on Front End.",
       "linkDemo": "https://pmdev.tabpedia.com",
       "linkGithub": ""
-    }
-  ],
-  "vue": [
-    {
-      "id": 1,
-      "gambar": "projectPicts/15.png",
-      "title": "VueJS CRUD",
-      "desc": "The project that i made to fill my spare time, this project using VueJS and dummy JSON. I'm working on Front End and Back End.",
-      "linkDemo": "https://crud-vue-js.vercel.app/",
-      "linkGithub": "https://github.com/msadhimb/CRUD-VueJS"
-    },
-    {
-      "id": 2,
-      "gambar": "projectPicts/17.png",
-      "title": "VueJS CRUD with MySQL Database",
-      "desc": "The project that i made to fill my spare time, this project using VueJS and MySQL I'm working on Front End and Back End.",
-      "linkDemo": "",
-      "linkGithub": "https://github.com/msadhimb/CRUD-MySQL-VueJs"
-    },
-    {
-      "id": 3,
-      "gambar": "projectPicts/16.png",
-      "title": "VueJS CRUD with Firebase Database",
-      "desc": "The project that i made to fill my spare time, this project using VueJS and Firebase Store Database. I'm working on Front End and Back End.",
-      "linkDemo": "https://crud-firebase-vue-js.vercel.app/",
-      "linkGithub": "https://github.com/msadhimb/CRUD-Firebase-VueJS"
     }
   ]
 }
